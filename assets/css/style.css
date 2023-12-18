@@ -1,0 +1,18 @@
+.container{
+    height: 100vh;
+}
+.card{
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.15) ;
+}
+.contain{
+    overflow: hidden;
+}
+
+img{
+    transition: all 0.5s;
+    
+
+}
+img:hover{
+    scale: 1.2;
+}
